@@ -12,3 +12,9 @@ My task was to quantify the robot behavior by video analyzing of experiments in 
 
  
 [A Non-Newtonian Fluid Robot](https://www.mitpressjournals.org/doi/full/10.1162/ARTL_a_00194?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&mobileUi=0)
+
+Below is an **UML diagram** shows the high level picture of the relationships between the new classes. <br><br>
+
+<p align="center">
+  <img width="800" height="600" src="robot movement A-B.PNG">
+</p>
